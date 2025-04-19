@@ -33,3 +33,4 @@ function bitapSearch(texto, padrao){
 
 bitapSearch("Toyota Supra MK4 with 2JZ-GTE 3.0L Inline-6 Turbocharged Engine and RWD", "2JZ");
 bitapSearch("Toyota Supra MK4 with 2JZ-GTE 3.0L Inline-6 Turbocharged Engine and RWD", "RB26DETT");
+bitapSearch("Toyota Supra MK4 with 2JZ-GTE 3.0L Inline-6 Turbocharged Engine and RWD", "");

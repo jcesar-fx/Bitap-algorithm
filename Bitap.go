@@ -38,4 +38,5 @@ func Bitap_search(texto string, padrao string) {
 func main() {
 	Bitap_search("Toyota Supra MK4 with 2JZ-GTE 3.0L Inline-6 Turbocharged Engine and RWD", "2JZ")
 	Bitap_search("Toyota Supra MK4 with 2JZ-GTE 3.0L Inline-6 Turbocharged Engine and RWD", "RB26DETT")
+	Bitap_search("Toyota Supra MK4 with 2JZ-GTE 3.0L Inline-6 Turbocharged Engine and RWD", "")
 }
